@@ -1,0 +1,19 @@
+{
+    "name": "unidad3",
+    "version": "1.0.0",
+    "description": "hola",
+    "main": "ejemplo.js",
+    "scripts": {
+        "start": "nodemon ejemplo.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "seydi",
+    "license": "ISC",
+    "dependencies": {
+        "bcrypt": "^5.1.0",
+        "body-parser": "^1.20.1",
+        "express": "^4.18.2",
+        "mongoose": "^6.7.4",
+        "nodemon": "^2.0.20"
+    }
+}
